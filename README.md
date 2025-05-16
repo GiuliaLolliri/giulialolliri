@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there! 👋 I'm Giulia Lolliri (She/Her) 💻📊🌱
 
-<!--
-**GiuliaLolliri/giulialolliri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate in **Statistical, Financial and Actuarial Sciences** from the **University of Bologna**, with a strong interest in actuarial analysis, financial modeling, and applied statistical methods.
 
-Here are some ideas to get you started:
+🚀 My latest academic project focuses on predicting **business insolvency in the construction sector (ATECO 43)** using financial indicators.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Check out the full project here:  
+👉 [business_insolvency](https://github.com/GiuliaLolliri/business_insolvency)
+
+---
+
+📫 You can reach me on:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/giulia-lolliri-13b502210/)
